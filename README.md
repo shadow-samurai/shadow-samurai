@@ -1,5 +1,6 @@
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=shadow-samurai&theme=radical)](https://git.io/streak-stats)
-
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
