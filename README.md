@@ -1,5 +1,7 @@
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=shadow-samurai&theme=radical)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shadow-samurai&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
