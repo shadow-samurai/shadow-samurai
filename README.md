@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-samurai&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shadow-samurai&theme=radical)](https://git.io/streak-stats)
